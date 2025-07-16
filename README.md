@@ -62,3 +62,9 @@ Este projeto permitiu construir uma visão clara da distribuição populacional 
 * A importância de políticas públicas voltadas para o envelhecimento da população e para o equilíbrio entre faixas etárias
 
 A junção entre Python, Excel e Power BI possibilitou um fluxo de trabalho robusto e completo — da coleta à apresentação visual.
+
+## 📎 Relatório em Excel
+
+Este projeto também conta com um **relatório visual em Excel**, com gráficos e análises complementares.
+
+> ⚠️ *Devido ao tamanho do arquivo (>25MB), ele não pôde ser hospedado diretamente no GitHub. Caso deseje visualizar esse material, entre em contato via LinkedIn ou envie uma solicitação.*
